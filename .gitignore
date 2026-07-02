@@ -11,9 +11,6 @@ __pycache__/
 image.png
 display.png
 
-# 사용자별 설정 (경로/창 위치가 컴퓨터마다 다름)
-config.json
-
 # IDE
 .idea/
 .vscode/

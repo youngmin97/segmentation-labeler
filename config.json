@@ -1,0 +1,9 @@
+{
+  "image_buffer_path": "\\\\192.168.0.26\\Imagebuffer",
+  "iq_data_path": "\\\\192.168.0.26\\IQ_Data\\CurrentPatient",
+  "output_path": "C:\\Users\\user\\Desktop\\Labeler\\Data",
+  "watcher_enabled": true,
+  "probe_type": "L3-12",
+  "window_geometry": "01d9d0cb00030000fffffffffffffff80000078000000408000000ee00000023000006650000041d0000000002000000078000000000000000170000077f00000407",
+  "last_organ": "Musculoskeletal"
+}
