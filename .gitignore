@@ -1,0 +1,27 @@
+# Virtual environment (컴퓨터마다 새로 생성)
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 런타임 산출물
+image.png
+display.png
+
+# 사용자별 설정 (경로/창 위치가 컴퓨터마다 다름)
+config.json
+
+# IDE
+.idea/
+.vscode/
+
+# 기타 임시 파일
+새 텍스트 문서.txt
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
